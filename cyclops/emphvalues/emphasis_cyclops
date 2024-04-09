@@ -1,0 +1,132 @@
+{
+    "0.Generic.Generic.Cfp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "0.Generic.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "16317231.Generic.Generic.Cfp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16317231.Generic.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "2362.111025-1201.Generic.Cxp.Copper": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "2362.111025-1203.Generic.Cxp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2362.Generic.Generic.Cxp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2362.Generic.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "2880.Generic.Generic.Cfp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2880.Generic.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "2880.TRB5E20ENF-LF000-W.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "2880.TRB5E20ENF-LF000.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.FCBGD10CD1C10.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.FTLC1181RDNS.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.FTLD10CE1C.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.FTLQ7181EALS.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.FTLQ8181EBLM.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "36965.Generic.Generic.Cfp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "36965.Generic.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "3996.Generic.Generic.Cxp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "3996.Generic.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "5994.AFBR-83PDZ.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "5994.AFBR-8420Z.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "5994.Generic.Generic.Cfp.Copper": {
+        "post": 18, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "5994.Generic.Generic.Cfp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }, 
+    "5994.SFBR-83PDZ-CS1.Generic.Cxp.Fiber": {
+        "post": 5, 
+        "pre": 0, 
+        "swing": 15
+    }
+}

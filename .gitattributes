@@ -79,3 +79,4 @@ apocalypse/emphvalues filter=lfs diff=lfs merge=lfs -text
 apocalypse/apc_gf_4x25g_687.bit filter=lfs diff=lfs merge=lfs -text
 apocalypse/apc_gf_4x25g_tsn_40101123.bit filter=lfs diff=lfs merge=lfs -text
 apocalypse/apocalypse_fx_25g_tsn.bit filter=lfs diff=lfs merge=lfs -text
+cyclops/ filter=lfs diff=lfs merge=lfs -text

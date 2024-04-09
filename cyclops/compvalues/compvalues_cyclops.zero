@@ -1,0 +1,48 @@
+#Copyright (c) 2015 by Spirent Communications Inc.
+#All Rights Reserved.
+
+#This software is confidential and proprietary to Spirent Communications Inc
+#No part of this software may be reproduced, transmitted, disclosed or used
+#in violation of the Software License Agreement without the expressed
+#written consent of Spirent Communications Inc.
+
+#$File: $
+#$Revision: $
+#\n<b>Last submission by:</b>
+#<ul>
+#<li>$Author: $</li>
+#<li>$DateTime: $</li>
+#<li>$Change: $</li>
+#</ul>
+
+#File Version
+#============
+#1.0
+
+#Model
+#=====
+#Cyclops
+
+#Format of variables
+#===================
+#<Vendor OUI> <Transponder Form> <WaveLength> <Link/Phy> <Direction> = <Compensation Value>
+
+#================
+# Cyclops is Copper RJ45 Only
+# Vendor OUI - Using Spirent PAB
+# Transponder is a RJ45
+# Wavelength is not needed; using Generic
+# Phy is a must
+#-----------------------
+# Copper
+4244.RJ45.Generic.Lan100M.Tx =  8190
+4244.RJ45.Generic.Lan100M.Rx = -3510
+4244.RJ45.Generic.Lan1G.Tx =  1182
+4244.RJ45.Generic.Lan1G.Rx = -506
+4244.RJ45.Generic.Lan2500M.Tx =  1053
+4244.RJ45.Generic.Lan2500M.Rx = -1579
+4244.RJ45.Generic.Lan5G.Tx =  611
+4244.RJ45.Generic.Lan5G.Rx = -917
+4244.RJ45.Generic.Lan.Tx =  456
+4244.RJ45.Generic.Lan.Rx = -684
+
