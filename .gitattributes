@@ -10,3 +10,11 @@ rogue/rogue_4x10g_STC_16011719.bit filter=lfs diff=lfs merge=lfs -text
 rogue/rogue_plus_10g.bit filter=lfs diff=lfs merge=lfs -text
 rogue/rogue_plus_1g.bit filter=lfs diff=lfs merge=lfs -text
 rogue/rog-4x1g-gaf_70102323.bit filter=lfs diff=lfs merge=lfs -text
+aonic/tbonaonic.bit filter=lfs diff=lfs merge=lfs -text
+aonic/tbonaonic_69072822.bit filter=lfs diff=lfs merge=lfs -text
+aonic/tbonavaonic.bit filter=lfs diff=lfs merge=lfs -text
+aonic/SConscript filter=lfs diff=lfs merge=lfs -text
+aonic/aonic_top_v238_012819.bit filter=lfs diff=lfs merge=lfs -text
+aonic/aonic_top_v240_010920.bit filter=lfs diff=lfs merge=lfs -text
+aonic/aonic_top_v244_121823.bit filter=lfs diff=lfs merge=lfs -text
+aonic/compvalues filter=lfs diff=lfs merge=lfs -text
