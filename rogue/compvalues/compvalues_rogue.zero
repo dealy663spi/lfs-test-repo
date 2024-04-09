@@ -1,0 +1,122 @@
+#Copyright (c) 2015 by Spirent Communications Inc.
+#All Rights Reserved.
+
+#This software is confidential and proprietary to Spirent Communications Inc
+#No part of this software may be reproduced, transmitted, disclosed or used
+#in violation of the Software License Agreement without the expressed
+#written consent of Spirent Communications Inc.
+
+#$File: $
+#$Revision: $
+#\n<b>Last submission by:</b>
+#<ul>
+#<li>$Author: $</li>
+#<li>$DateTime: $</li>
+#<li>$Change: $</li>
+#</ul>
+
+#File Version
+#============
+#1.0
+
+#Model
+#=====
+#Rogue
+
+#Format of variables
+#===================
+#<Vendor OUI> <Transponder Form> <WaveLength> <Link/Phy> <Direction> = <Compensation Value>
+
+# The Wavelength for now does not matter, thus the Generic.
+
+#========
+#=-= Sfp 10G =-=
+#----------
+#================
+#----------
+#Generic: 0
+#----------
+#// Missing/Unsupported transponder
+0.Sfp.Generic.Lan.Tx =  103
+0.Sfp.Generic.Lan.Rx = -108
+
+0.Sfp.Er.Lan.Tx =  103
+0.Sfp.Er.Lan.Rx = -108
+0.Sfp.Lr.Lan.Tx =  103
+0.Sfp.Lr.Lan.Rx = -108
+0.Sfp.Sr.Lan.Tx =  103
+0.Sfp.Sr.Lan.Rx = -108
+
+#================
+#
+# For SFP type modules there is no delay through the module.
+# At least for the PHY speeds in use now.
+# So the Vendor does not matter. Utilize our OUI to make
+# this process Generic
+#
+#================
+#-----------------------
+#Generic:
+# Vendor OUI - Using Spirent PAB
+# Wavelength is not needed
+# Phy is a must
+#-----------------------
+4244.Sfp.Generic.Lan.Tx =  180
+4244.Sfp.Generic.Lan.Rx = -1072
+
+#========
+#=-= Sfp 1G =-=
+#----------
+#================
+#----------
+#Generic: 0
+#----------
+#// Missing/Unsupported transponder
+0.Sfp.Generic.Lan1G.Tx =  180
+0.Sfp.Generic.Lan1G.Rx = -1072
+
+0.Sfp.Er.Lan1G.Tx =  180
+0.Sfp.Er.Lan1G.Rx = -1072
+0.Sfp.Lr.Lan1G.Tx =  180
+0.Sfp.Lr.Lan1G.Rx = -1072
+0.Sfp.Sr.Lan1G.Tx =  180
+0.Sfp.Sr.Lan1G.Rx = -1072
+
+#================
+#
+# For SFP type modules there is no delay through the module.
+# At least for the PHY speeds in use now.
+# So the Vendor does not matter. Utilize our OUI to make
+# this process Generic
+#
+#================
+#-----------------------
+#Generic:
+# Vendor OUI - Using Spirent PAB
+# Wavelength is not needed for fiber modules
+# Phy is a must
+#-----------------------
+4244.Sfp.Generic.Lan1G.Tx =  180
+4244.Sfp.Generic.Lan1G.Rx = -1072
+
+# Wavelength is needed for RJ45 modules
+4244.Sfp.1000BaseT.Lan1G.Tx   =  240
+4244.Sfp.1000BaseT.Lan1G.Rx   = -1188
+4244.Sfp.1000BaseT.Lan100M.Tx =  744
+4244.Sfp.1000BaseT.Lan100M.Rx = -1330
+4244.Sfp.1000BaseT.Lan10M.Tx  =  6088
+4244.Sfp.1000BaseT.Lan10M.Rx  = -3100
+
+# Source Photonics 100Base-FX SFP module
+4244.Sfp.Generic.Lan100M.Tx =  802
+4244.Sfp.Generic.Lan100M.Rx = -1392
+
+# Technica Automotive T1 modules
+4244.Sfp.100BaseT1.Lan100M.Tx  =  1230
+4244.Sfp.100BaseT1.Lan100M.Rx  = -2138
+4244.Sfp.100BaseT1.Lan10M.Tx   =  11620
+4244.Sfp.100BaseT1.Lan10M.Rx   = -10796
+4244.Sfp.1000BaseT1.Lan1G.Tx   =  1146
+4244.Sfp.1000BaseT1.Lan1G.Rx   = -2038
+
+#EOF

@@ -1,0 +1,12 @@
+rogue/rog2-4x1g-gaf_108.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_4x10g_30112619.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_4x10g_35041020.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_plus_10g_av.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_tsn.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rog-2x1g-gaf_0x81051223.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_4x10g_28062818.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_4x10g_STC_16011719.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_plus_10g.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rogue_plus_1g.bit filter=lfs diff=lfs merge=lfs -text
+rogue/rog-4x1g-gaf_70102323.bit filter=lfs diff=lfs merge=lfs -text

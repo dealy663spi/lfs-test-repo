@@ -1,0 +1,46 @@
+import os
+
+Import('*')
+
+e = env.Clone()
+
+fpga = [
+    'rogue.bit',
+    'rogue_tsn.bit',
+]
+
+if conf.get('app_type',None) and conf['app_type'] == 'chassis_3':
+    target_dir = conf['hypervisor_fpga_dir']
+else:
+    target_dir = conf['fpga_blddir']
+
+for img in fpga :
+    target = os.path.join(target_dir, img)
+    f = e.Command(target, img, "cp -f $SOURCE $TARGET" )
+    utils.install(e,f)
+
+if conf.get('app_type',None) and conf['app_type'] == 'chassis_3':
+    pass
+else:
+    compvalue = [
+                 'compvalues/compvalues_rogue.positive',
+                 'compvalues/compvalues_rogue.zero'
+                ]
+    for file in compvalue :
+         target = os.path.join(conf['fpga_blddir'], file)
+         f = e.Command(target, file, "cp -f $SOURCE $TARGET")
+         utils.install(e, f)
+
+    emphvalue = [
+                 'emphvalues/emphasis_rogue',
+                ]
+    for file in emphvalue :
+         target = os.path.join(conf['fpga_blddir'], file)
+         f = e.Command(target, file, "cp -f $SOURCE $TARGET")
+         utils.install(e, f)
+
+# Local Variables:
+# mode:python
+# End:
+# vim: syntax=python
+

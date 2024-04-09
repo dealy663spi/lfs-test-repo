@@ -1,0 +1,97 @@
+{
+    "0.Generic.Generic.Sfp.Copper": {
+        "post": 20, 
+        "pre": 0, 
+        "swing": 10
+    }, 
+    "0.Generic.Generic.Sfp.Fiber": {
+        "post": 0, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.TCP-S1AA1-A1M.Generic.Sfp.Copper": {
+        "post": 21, 
+        "pre": 0, 
+        "swing": 11
+    }, 
+    "2362.74752-1101.Generic.Sfp.Copper": {
+        "post": 16, 
+        "pre": 0, 
+        "swing": 11
+    }, 
+    "2362.74752-3501.Generic.Sfp.Copper": {
+        "post": 24, 
+        "pre": 7, 
+        "swing": 15
+    }, 
+    "2362.74752-9025.Generic.Sfp.Copper": {
+        "post": 16, 
+        "pre": 0, 
+        "swing": 11
+    }, 
+    "2362.74752-9026.Generic.Sfp.Copper": {
+        "post": 22, 
+        "pre": 7, 
+        "swing": 15
+    }, 
+    "2362.Generic.Generic.Sfp.Copper": {
+        "post": 20, 
+        "pre": 0, 
+        "swing": 10
+    }, 
+    "2362.Generic.Generic.Sfp.Fiber": {
+        "post": 0, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.Generic.Generic.Sfp.Copper": {
+        "post": 20, 
+        "pre": 0, 
+        "swing": 10
+    }, 
+    "36965.Generic.Generic.Sfp.Fiber": {
+        "post": 0, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "8624.2032237-2.Generic.Sfp.Copper": {
+        "post": 16, 
+        "pre": 0, 
+        "swing": 11
+    }, 
+    "8624.2032237-4.Generic.Sfp.Copper": {
+        "post": 16, 
+        "pre": 4, 
+        "swing": 15
+    }, 
+    "8624.2032237-6.Generic.Sfp.Copper": {
+        "post": 22, 
+        "pre": 5, 
+        "swing": 15
+    }, 
+    "8624.2127053-2.Generic.Sfp.Copper": {
+        "post": 16, 
+        "pre": 0, 
+        "swing": 11
+    }, 
+    "8624.2127053-4.Generic.Sfp.Copper": {
+        "post": 24, 
+        "pre": 5, 
+        "swing": 15
+    }, 
+    "8624.2127932-4.Generic.Sfp.Copper": {
+        "post": 22, 
+        "pre": 5, 
+        "swing": 15
+    }, 
+    "8624.Generic.Generic.Sfp.Copper": {
+        "post": 20, 
+        "pre": 0, 
+        "swing": 10
+    }, 
+    "8624.Generic.Generic.Sfp.Fiber": {
+        "post": 0, 
+        "pre": 0, 
+        "swing": 8
+    }
+}
