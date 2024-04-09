@@ -103,3 +103,9 @@ cyclops/CyclopsDX_8x10G_tandem2_13060321.bin filter=lfs diff=lfs merge=lfs -text
 cyclops/cyclops_nic_dx.bin filter=lfs diff=lfs merge=lfs -text
 cyclops/cyclops_nic_dx.bit filter=lfs diff=lfs merge=lfs -text
 cyclops/cyclops_nic_dx_rev1.bit filter=lfs diff=lfs merge=lfs -text
+moonstar/moonstar_100g.bit filter=lfs diff=lfs merge=lfs -text
+moonstar/moonstar_50g.bit filter=lfs diff=lfs merge=lfs -text
+moonstar/SConscript filter=lfs diff=lfs merge=lfs -text
+moonstar/ctd_status.py filter=lfs diff=lfs merge=lfs -text
+moonstar/moo_flx_250g_911_t22s9a.bit filter=lfs diff=lfs merge=lfs -text
+moonstar/moo_flx_500g_288_t22s10c.bit filter=lfs diff=lfs merge=lfs -text
