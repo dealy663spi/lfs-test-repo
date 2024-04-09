@@ -1,0 +1,722 @@
+{
+    "0.Generic.Generic.Generic.COPPER_0_2": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    },
+    "0.Generic.Generic.Generic.COPPER_3": {
+        "post": 30, 
+        "pre": 4, 
+        "swing": 30
+    },
+    "0.Generic.Generic.Generic.COPPER_5": {
+        "post": 10, 
+        "pre": 6, 
+        "swing": 12
+    },
+    "0.Generic.Generic.Generic.COPPER_7": {
+        "post": 2, 
+        "pre": 6, 
+        "swing": 12
+    },
+    "0.Generic.Generic.Generic.OPTICAL": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    },
+    "0.EL-12-07001-136.Generic.Qsfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.EL-13-08002-001.Generic.Qsfp28.Copper": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.EL-13-08002-004.Generic.Qsfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "0.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "0.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "0.ML4002-28-C5.Generic.Qsfp28.Copper": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "0.ML4012-28-5W.Generic.Qsfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "11055278.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "11055278.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "11055278.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11055278.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11055278.L45593-C280-B30.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11055278.L45593-C280-B50.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "11055278.L45593-C280-D10.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11055278.L45593-D250-D30.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "11145093.CAU017-0001-B300.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11145093.CAU017-0001-B500.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "11145093.CAU017-0001-D100.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11145093.CAU017-0001-D300.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "11145093.CAU120-038-A500.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "11145093.CAU120-038-B500.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "11145093.CAU120-038-D100.Generic.Qsfp28.Copper": {
+        "post": 18, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "11145093.CAU120-038-D300.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "11145093.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "11145093.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "11145093.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "11145093.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "1310.57-1000326-01.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "1310.57-1000342-01.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "1310.58-0000061-01.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "1310.58-0000061-01.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "1310.58-0000062-01.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "1310.58-0000062-01.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "1310.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "1310.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "1310.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "14.FIM37700/170.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "14.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "14.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16416.2156043-1.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16416.2156120-2.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 12
+    }, 
+    "16416.2156121-8.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 12
+    }, 
+    "16416.2166043001416.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16416.2231368-1.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16416.2231368-2.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16416.2231368-7.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16416.2231368-8.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16416.2821033-1.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16416.2821033-1.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16416.2821033-4.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16416.2821033-4.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "16416.2821222-1.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "16416.2821222-3.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16416.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16416.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16416.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16416.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16416.QSFP-100G-AOC3M.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 12
+    }, 
+    "16486.25QSFP26C-50.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "16486.25QSFP26C50.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "16486.25QSFP30B-10.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16486.25QSFP30B-30.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16486.25QSFP30B10.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16486.25QSFP30B30.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16486.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16486.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16547047.10121178-2010LF.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16547047.10121178-4050LF.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "16547047.10130795-2010LF.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16547047.10130795-2010LF.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16547047.10130795-2030LF.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16547047.10130795-2030LF.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "16547047.10130795-4030LF.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16547047.10130795-4030LF.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "16547047.10130795-4050LF.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "16547047.10130795-4050LF.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "16547047.10136333-2010LF.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16547047.AFBR-79EIDZ-CS1.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16547047.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "16547047.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16547047.QSFP-40G-SR4.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "16547047.QSFP-4SFP25G-CU1M.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "16547047.QSFP-4SFP25G-CU1M.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2362.1002971101.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 6, 
+        "swing": 14
+    }, 
+    "2362.1002971301.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "2362.1002973301.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "2362.1002973501.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "2362.1111451101.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2362.1111451301.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "2362.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "2362.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "2362.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "2362.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "36965.FCBN425QB1C05.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FCBN425QE1C10-C1.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FTL410QE2C.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FTLC1151RDPL.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FTLC1152RGPL.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FTLC9551REPM.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.FTLF8536P4BCL.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "36965.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "36965.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "36965.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "36965.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "36965.QSFP-100G-AOC3M.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "412.JQ2R10GC4AA1CS.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "5994.AFBR-725SMZ.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "5994.AFBR-79E4Z.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.AFBR-79EIDZ.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.AFBR-89CDDZ-CS1.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.AFBR-89CDDZ-JU1.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.AFBR-89CDDZ.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.AFBR-89CDHZ.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "5994.Generic.Generic.Qsfp28.Fiber": {
+        "post": 12, 
+        "pre": 4, 
+        "swing": 12
+    }, 
+    "5994.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "5994.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "7907092.Generic.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "7907092.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "7907092.Generic.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "7907092.Generic.Generic.Sfp28.Fiber": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "7907092.NDAAFF-C103.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "7907092.NDAAFF-C402.Generic.Qsfp28.Copper": {
+        "post": 0, 
+        "pre": 10, 
+        "swing": 31
+    }, 
+    "7907092.NDAAFF-C403.Generic.Qsfp28.Copper": {
+        "post": 0, 
+        "pre": 10, 
+        "swing": 31
+    }, 
+    "7907092.NDAAFJ-0004.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "7907092.NDAAFJ-004.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "7907092.NDAAFJ-C102.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "7907092.NDAAFJ-C104.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "7907092.NDCCGF-C101.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "7907092.NDCCGF-C103.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "7907092.NDCCGJ-C102.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 30
+    }, 
+    "7907092.NDCCGJ-C104.Generic.Sfp28.Copper": {
+        "post": 12, 
+        "pre": 0, 
+        "swing": 16
+    }, 
+    "7907092.SF-NDAAFF100G-003M.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "7907092.SF-NDAAFJ100G-003M.Generic.Qsfp28.Copper": {
+        "post": 20, 
+        "pre": 4, 
+        "swing": 30
+    }, 
+    "7907092.SF-NDAAFJ100G-005M.Generic.Qsfp28.Copper": {
+        "post": 25, 
+        "pre": 6, 
+        "swing": 30
+    }, 
+    "7970.Generic.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }, 
+    "7970.SPQCELRCDFA.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    },
+    "4488319.TR-FC13R-N00.Generic.Qsfp28.Fiber": {
+        "post": 10, 
+        "pre": 0, 
+        "swing": 8
+    }
+}

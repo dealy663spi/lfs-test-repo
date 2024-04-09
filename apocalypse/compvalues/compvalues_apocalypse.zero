@@ -1,0 +1,110 @@
+#Copyright (c) 2015 by Spirent Communications Inc.
+#All Rights Reserved.
+
+#This software is confidential and proprietary to Spirent Communications Inc
+#No part of this software may be reproduced, transmitted, disclosed or used
+#in violation of the Software License Agreement without the expressed
+#written consent of Spirent Communications Inc.
+
+#$File: $
+#$Revision: $
+#\n<b>Last submission by:</b>
+#<ul>
+#<li>$Author: $</li>
+#<li>$DateTime: $</li>
+#<li>$Change: $</li>
+#</ul>
+
+#File Version
+#============
+#1.0
+
+#Model
+#=====
+#Apocalypse
+
+#Format of variables
+#===================
+#<Vendor OUI> <Transponder Form> <WaveLength> <Link/Phy> <Direction> = <Compensation Value>
+
+# The Wavelength for now does not matter, thus the Generic.
+
+#----------
+#Generic: 0
+#----------
+0.Generic.Generic.Lan.Tx =  142
+0.Generic.Generic.Lan.Rx = -154
+
+0.Qsfp.Generic.Lan.Tx =  142
+0.Qsfp.Generic.Lan.Rx = -154
+
+0.Qsfp28.Generic.Lan.Tx =  142
+0.Qsfp28.Generic.Lan.Rx = -154
+
+#// Missing/Unsupported transponder
+0.Generic.Generic.Lan25.Tx =  83
+0.Generic.Generic.Lan25.Rx = -82
+
+0.Qsfp.Generic.Lan25.Tx =  83
+0.Qsfp.Generic.Lan25.Rx = -82
+
+0.Qsfp28.Generic.Lan25.Tx =  83
+0.Qsfp28.Generic.Lan25.Rx = -82
+
+0.Qsfp.Generic.Lan40.Tx =  95
+0.Qsfp.Generic.Lan40.Rx = -78
+
+0.Qsfp28.Generic.Lan40.Tx =  95
+0.Qsfp28.Generic.Lan40.Rx = -78
+
+0.Qsfp28.PAM4.Lan50.Tx =  179
+0.Qsfp28.PAM4.Lan50.Rx = -466
+
+0.Qsfp.Generic.Lan50.Tx =  98
+0.Qsfp.Generic.Lan50.Rx = -65
+
+0.Qsfp28.Generic.Lan50.Tx =  98
+0.Qsfp28.Generic.Lan50.Rx = -65
+
+0.Generic.Generic.Lan50.Tx =  98
+0.Generic.Generic.Lan50.Rx = -65
+
+0.Generic.Generic.Lan100.Tx =  185
+0.Generic.Generic.Lan100.Rx = -140
+
+0.Qsfp.Generic.Lan100.Tx =  185
+0.Qsfp.Generic.Lan100.Rx = -140
+
+0.Qsfp28.Generic.Lan100.Tx =  185
+0.Qsfp28.Generic.Lan100.Rx = -140
+
+0.Qsfp28.Generic.Fc16.Tx =  78
+0.Qsfp28.Generic.Fc16.Rx = -118
+
+0.Qsfp28.Generic.Fc32.Tx =  150
+0.Qsfp28.Generic.Fc32.Rx = -226
+
+0.Sfp28.Generic.Lan.Tx =  152
+0.Sfp28.Generic.Lan.Rx = -148
+
+#// Missing/Unsupported transponder
+0.Sfp28.Generic.Lan25.Tx =  83
+0.Sfp28.Generic.Lan25.Rx = -82
+
+0.Sfp28.Generic.Lan40.Tx =  95
+0.Sfp28.Generic.Lan40.Rx = -78
+
+0.Sfp28.PAM4.Lan50.Tx =  184
+0.Sfp28.PAM4.Lan50.Rx = -475
+
+0.Sfp28.Generic.Lan50.Tx =  98
+0.Sfp28.Generic.Lan50.Rx = -65
+
+0.Sfp28.Generic.Lan100.Tx =  185
+0.Sfp28.Generic.Lan100.Rx = -140
+
+0.Sfp28.Generic.Fc16.Tx =  78
+0.Sfp28.Generic.Fc16.Rx = -118
+
+0.Sfp28.Generic.Fc32.Tx =  150
+0.Sfp28.Generic.Fc32.Rx = -226
