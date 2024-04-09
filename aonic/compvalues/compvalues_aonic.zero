@@ -1,0 +1,69 @@
+#Copyright (c) 2007 by Spirent Communications Inc.
+#All Rights Reserved.
+
+#This software is confidential and proprietary to Spirent Communications Inc
+#No part of this software may be reproduced, transmitted, disclosed or used
+#in violation of the Software License Agreement without the expressed
+#written consent of Spirent Communications Inc.
+
+#$File: $
+#$Revision: $
+#\n<b>Last submission by:</b>
+#<ul>
+#<li>$Author: $</li>
+#<li>$DateTime: $</li>
+#<li>$Change: $</li>
+#</ul>
+
+#File Version
+#============
+#1.0
+
+#Model
+#=====
+#AONIC
+
+#Format of variables
+#===================
+#<Vendor OUI> <Transponder Form> <WaveLength> <Link/Phy> <Direction> = <Compensation Value>
+
+
+#================
+#----------
+#Generic: 0
+#----------
+#// Missing/Unsupported transponder
+0.Generic.Generic.Generic.Tx =  231
+0.Generic.Generic.Generic.Rx = -183
+
+0.Sfp.Er.Lan.Tx =  231
+0.Sfp.Er.Lan.Rx = -183
+0.Sfp.Lr.Lan.Tx =  231
+0.Sfp.Lr.Lan.Rx = -183
+0.Sfp.Sr.Lan.Tx =  231
+0.Sfp.Sr.Lan.Rx = -183
+0.Sfp.Er.Wan.Tx =  231
+0.Sfp.Er.Wan.Rx = -183
+0.Sfp.Lr.Wan.Tx =  231
+0.Sfp.Lr.Wan.Rx = -183
+0.Sfp.Sr.Wan.Tx =  231
+0.Sfp.Sr.Wan.Rx = -183
+
+#================
+#
+# For SFP type modules these is no delay trough the module.
+# At least for the PHY speeds in use now.
+# So the Vendor does not matter. Utilize our OUI to make
+# this process Generic
+#
+#================
+#-----------------------
+#Generic: 
+# Vendor OUI - Using Spirent PAB
+# Wavelength is not needed
+# Phy is a must
+#-----------------------
+4244.Sfp.Generic.Lan.Tx =  231
+4244.Sfp.Generic.Lan.Rx = -183
+4244.Sfp.Generic.Wan.Tx =  231
+4244.Sfp.Generic.Wan.Rx = -183
